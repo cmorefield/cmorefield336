@@ -1,0 +1,59 @@
+body {
+    background-image: url("http://i.imgur.com/tXa0o2w.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color:white;
+    background-size: auto;
+    
+
+}
+
+
+
+header{
+    
+    text-align:center;
+}
+nav{
+    text-align:center
+}
+footer{
+    text-align:center;
+}
+main{
+    text-align: center;
+}
+
+nav a{
+    padding:15px;
+    padding-bottom:4px;
+    font-size:1.8em;
+    text-decoration: none;
+    color: white;
+    font-family: 'Amiko', sans-serif;
+}
+
+nav a:hover{
+    border-bottom: 2px white solid;
+    font-size:2em;
+    transition: .2s;
+}
+
+#me,#welcomeText,#csumb{
+    float: none;
+}
+
+footer{
+    clear: left
+}
+
+
+h1{
+    color: white;
+    font-family: 'Monoton' , cursive;
+}
+
+p{
+    color: white;
+    font-family: 'Amiko', sans-serif;
+}
