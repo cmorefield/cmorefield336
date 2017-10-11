@@ -1,0 +1,35 @@
+
+body{
+    background-image: url("tempdelete.png");
+    font-family: 'Knewave', cursive;
+}
+
+h1{
+    color: aquamarine;
+     
+    font-size: 60px;
+}
+fieldset{
+    background-color: lightgrey;
+    border-radius:20px;
+}
+img{
+    border-radius: 20px;
+}
+footer{
+    color:white;
+    text-align: center;
+}
+.correctq{
+    color: green;
+}
+.incorrectq{
+    color: red;
+}
+legend{
+    font-size:30px;
+    color: black;
+}
+#submit{
+    text-align:center;
+}
