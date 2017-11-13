@@ -1,0 +1,18 @@
+[20-Sep-2017 03:55:01 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ubuntu/workspace/cmorefield336/homework/hw2_actual/colorpicker.php on line 5
+[20-Sep-2017 07:04:44 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/cmorefield336/homework/hw2_actual/colorpicker.php on line 24
+[20-Sep-2017 07:04:44 UTC] PHP Stack trace:
+[20-Sep-2017 07:04:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cmorefield336/homework/hw2_actual/colorpicker.php:0
+[20-Sep-2017 07:09:12 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/cmorefield336/homework/hw2_actual/colorpicker.php on line 24
+[20-Sep-2017 07:09:12 UTC] PHP Stack trace:
+[20-Sep-2017 07:09:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cmorefield336/homework/hw2_actual/colorpicker.php:0
+[20-Sep-2017 07:12:26 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/cmorefield336/homework/hw2_actual/colorpicker.php on line 26
+[20-Sep-2017 07:12:26 UTC] PHP Stack trace:
+[20-Sep-2017 07:12:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cmorefield336/homework/hw2_actual/colorpicker.php:0
+[20-Sep-2017 07:15:26 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/cmorefield336/homework/hw2_actual/colorpicker.php on line 26
+[20-Sep-2017 07:15:26 UTC] PHP Stack trace:
+[20-Sep-2017 07:15:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cmorefield336/homework/hw2_actual/colorpicker.php:0
+[20-Sep-2017 07:16:12 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/cmorefield336/homework/hw2_actual/colorpicker.php on line 27
+[20-Sep-2017 07:16:12 UTC] PHP Stack trace:
+[20-Sep-2017 07:16:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cmorefield336/homework/hw2_actual/colorpicker.php:0
+[11-Oct-2017 04:00:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/cmorefield336/homework/hw3/index.php on line 27
+[11-Oct-2017 04:18:14 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/cmorefield336/homework/hw3/index.php on line 74

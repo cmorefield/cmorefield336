@@ -1,0 +1,21 @@
+[08-Sep-2017 19:23:55 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/cmorefield336/Practice/randomcolor.php on line 15
+[08-Sep-2017 19:25:14 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/cmorefield336/Practice/randomcolor.php on line 15
+[08-Sep-2017 19:31:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/cmorefield336/Practice/randomcolor.php on line 16
+[08-Sep-2017 19:31:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/cmorefield336/Practice/randomcolor.php on line 16
+[08-Sep-2017 19:31:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/cmorefield336/Practice/randomcolor.php on line 16
+[08-Sep-2017 19:34:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/cmorefield336/Practice/randomcolor.php on line 16
+[08-Sep-2017 19:34:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/cmorefield336/Practice/randomcolor.php on line 16
+[27-Sep-2017 19:52:22 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/ubuntu/workspace/cmorefield336/Practice/zodiac.php on line 3
+[27-Sep-2017 19:52:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cmorefield336/Practice/zodiac.php on line 58
+[27-Sep-2017 20:06:49 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/cmorefield336/Practice/zodiac.php on line 6
+[20-Oct-2017 19:37:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cmorefield336/midterm/program1.php on line 6
+[20-Oct-2017 19:38:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cmorefield336/midterm/program1.php on line 6
+[20-Oct-2017 19:38:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/cmorefield336/midterm/program1.php on line 56
+[20-Oct-2017 19:39:26 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/ubuntu/workspace/cmorefield336/midterm/program1.php on line 71
+[20-Oct-2017 19:39:55 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/ubuntu/workspace/cmorefield336/midterm/program1.php on line 71
+[20-Oct-2017 20:04:30 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/ubuntu/workspace/cmorefield336/midterm/program1.php on line 82
+[20-Oct-2017 20:09:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/cmorefield336/midterm/program1.php on line 89
+[20-Oct-2017 20:10:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/cmorefield336/midterm/program1.php on line 89
+[20-Oct-2017 20:48:41 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/cmorefield336/midterm/program1.php on line 100
+[20-Oct-2017 21:10:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/cmorefield336/midterm/program1.php on line 144
+[20-Oct-2017 21:17:56 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in /home/ubuntu/workspace/cmorefield336/midterm/program1.php on line 141
